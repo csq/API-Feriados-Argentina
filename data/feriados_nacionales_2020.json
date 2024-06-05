@@ -1,0 +1,157 @@
+[
+    {
+        "date": "01/01/2020",
+        "label": "A\u00f1o nuevo",
+        "type": "inamovible"
+    },
+    {
+        "date": "24/02/2020",
+        "label": "Carnaval",
+        "type": "inamovible"
+    },
+    {
+        "date": "25/02/2020",
+        "label": "Carnaval",
+        "type": "inamovible"
+    },
+    {
+        "date": "23/03/2020",
+        "label": "Feriados con Fines tur\u00edsticos.",
+        "type": "turistico"
+    },
+    {
+        "date": "24/03/2020",
+        "label": "D\u00eda Nacional de la Memoria por la Verdad y la Justicia",
+        "type": "inamovible"
+    },
+    {
+        "date": "31/03/2020",
+        "label": "D\u00eda del Veterano y de los Ca\u00eddos en la Guerra de Malvinas.<div class=\"m-t-2\"><small><em>El feriado del 2 de abril fue trasladado al d\u00eda martes 31 de marzo de 2020, por \u00fanica vez, motivo del aislamiento obligatorio y preventivo en todo el pa\u00eds. <a href=\"https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320\">Decreto 297/2020</a>.</em></small></div>",
+        "type": "inamovible"
+    },
+    {
+        "date": "09/04/2020",
+        "label": "Jueves Santo",
+        "type": "no_laborable"
+    },
+    {
+        "date": "10/04/2020",
+        "label": "Viernes Santo",
+        "type": "inamovible"
+    },
+    {
+        "date": "09/04/2020",
+        "label": "Pascuas Jud\u00edas",
+        "type": "no_laborable"
+    },
+    {
+        "date": "10/04/2020",
+        "label": "Pascuas Jud\u00edas",
+        "type": "no_laborable"
+    },
+    {
+        "date": "15/04/2020",
+        "label": "Pascuas Jud\u00edas",
+        "type": "no_laborable"
+    },
+    {
+        "date": "16/04/2020",
+        "label": "Pascuas Jud\u00edas",
+        "type": "no_laborable"
+    },
+    {
+        "date": "24/04/2020",
+        "label": "D\u00eda de acci\u00f3n por la tolerancia y el respeto entre los pueblos (a).<div class=\"m-t-2\"><small><em>El feriado del 2 de abril fue trasladado al d\u00eda martes 31 de marzo de 2020, por \u00fanica vez, motivo del aislamiento obligatorio y preventivo en todo el pa\u00eds. <a href=\"https://www.boletinoficial.gob.ar/detalleAviso/primera/227042/20200320\">Decreto 297/2020</a>.</em></small></div>",
+        "type": "no_laborable"
+    },
+    {
+        "date": "01/05/2020",
+        "label": "D\u00eda del trabajador",
+        "type": "inamovible"
+    },
+    {
+        "date": "24/05/2020",
+        "label": "Fiesta de la Ruptura del Ayuno del Sagrado Mes de Ramad\u00e1n (Id al-Fitr) (c).",
+        "type": "no_laborable"
+    },
+    {
+        "date": "25/05/2020",
+        "label": "D\u00eda de la Revoluci\u00f3n de Mayo",
+        "type": "inamovible"
+    },
+    {
+        "date": "20/06/2020",
+        "label": "D\u00eda Paso a la Inmortalidad del Gral. Manuel Belgrano",
+        "type": "inamovible"
+    },
+    {
+        "date": "15/06/2020",
+        "label": "D\u00eda Paso a la Inmortalidad del General Mart\u00edn Miguel de G\u00fcemes (17/06).",
+        "type": "trasladable"
+    },
+    {
+        "date": "09/07/2020",
+        "label": "D\u00eda de la Independencia",
+        "type": "inamovible"
+    },
+    {
+        "date": "10/07/2020",
+        "label": "Feriado con Fines Tur\u00edsticos.",
+        "type": "turistico"
+    },
+    {
+        "date": "31/07/2020",
+        "label": "Fiesta del Sacrificio (c).",
+        "type": "no_laborable"
+    },
+    {
+        "date": "20/08/2020",
+        "label": "A\u00f1o Nuevo Isl\u00e1mico (c)",
+        "type": "no_laborable"
+    },
+    {
+        "date": "17/08/2020",
+        "label": "Paso a la Inmortalidad del Gral. Jos\u00e9 de San Mart\u00edn",
+        "type": "trasladable"
+    },
+    {
+        "date": "19/09/2020",
+        "label": "A\u00f1o Nuevo Jud\u00edo (b)**.",
+        "type": "no_laborable"
+    },
+    {
+        "date": "20/09/2020",
+        "label": "A\u00f1o Nuevo Jud\u00edo (b)**.",
+        "type": "no_laborable"
+    },
+    {
+        "date": "28/09/2020",
+        "label": "D\u00eda del Perd\u00f3n (b)***.",
+        "type": "no_laborable"
+    },
+    {
+        "date": "12/10/2020",
+        "label": "D\u00eda del Respeto a la Diversidad Cultural",
+        "type": "trasladable"
+    },
+    {
+        "date": "23/11/2020",
+        "label": "D\u00eda de la Soberan\u00eda Nacional",
+        "type": "trasladable"
+    },
+    {
+        "date": "07/12/2020",
+        "label": "Feriado con Fines Tur\u00edsticos.",
+        "type": "turistico"
+    },
+    {
+        "date": "08/12/2020",
+        "label": "Inmaculada Concepci\u00f3n de Mar\u00eda",
+        "type": "inamovible"
+    },
+    {
+        "date": "25/12/2020",
+        "label": "Navidad",
+        "type": "inamovible"
+    }
+]
